@@ -13,7 +13,7 @@ CREATE TABLE products (
     PRIMARY KEY (item_id)
 );
 
-select * from products;
+SElECT * FROM products;
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES 
